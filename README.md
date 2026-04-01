@@ -32,7 +32,7 @@ Python (Pandas, Matplotlib/Seaborn) → Data cleaning and visualization.
 ```
 >High-performing employees with no leadership opportunities exist
 
->PhD holders show ~50% lower attrition (24%) compared to others (~48%)
+>PhD holders show ~50% lower attrition when compared to others 
 
 >Poor work-life balance → ~60% attrition, vs ~35% for excellent balance
 
