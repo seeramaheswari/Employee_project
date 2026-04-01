@@ -64,8 +64,6 @@ Python (Pandas, Matplotlib/Seaborn) → Data cleaning and visualization.
 ```
 #### 💡 Key Insights
 ```
->Certain job roles have higher attrition rates
-
 >Younger employees / early tenure employees leave more frequently
 
 >High performers can be identified for promotion planning
