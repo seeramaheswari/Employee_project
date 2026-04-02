@@ -85,39 +85,59 @@ decisions
 
 #### 🔹 Key Analysis Performed
 ```
->Data loading & inspection (head())
+> Data loading & inspection (pd.read_csv(), head(), columns)
 
->Data cleaning (drop(), isnull())
+> Data cleaning (drop unnecessary columns)
 
->Salary filtering (salary > 10000)
+> Salary analysis by job role (groupby + mean)
 
->Gender distribution (value_counts())
+> Attrition analysis by job role (groupby + count)
 
->Visualization:Salary distribution (box plots)
+> Age distribution visualization (sns.histplot)
 
->Total salary expense (sum())
+> Gender distribution (value_counts, sort_values)
 
->Tenure-based filtering
+> Correlation check (corr between Years at Company & Attrition)
+
+> Tenure grouping (pd.cut)
+
+> Attrition rate by tenure (groupby + line plot)
+
+> Attrition rate by education (percentage calculation + bar plot)
+
+> Work-life balance vs performance (pd.crosstab + heatmap)
 ```
 #### 💡 Key Insights
 ```
->Identified high-paying roles
+> Technology roles are highest paid; education roles are lowest paid and which Attrition is ~50% across all job roles → not role-specific
 
->Gender distribution imbalance in workforce
+> Young & mid-age employees leave more; senior employees stay longer
 
->Total salary expense → overall financial commitment
+> Gender distribution highlights workforce composition imbalance
 
->Employees with higher tenure are fewer → possible retention issue
+> Employees with 0–2 years tenure have highest attrition
+
+> Long-tenure employees show higher retention
+
+> Education level has minor impact on attrition (mostly similar rates)
+
+> No strong correlation between work-life balance and performance
+
+> Majority employees are average performers (~60%)
 ```
 #### 🧠 Business Problems Solved
 ```
->Budget Planning → Understand salary expenditure
+> Attrition Reduction → Focus on early-tenure employees (0–2 years)
 
->Diversity Hiring → Balance gender distribution
+> Compensation Strategy → Address salary gaps across job roles
 
->Retention Strategy → Focus on mid/long-term employees
+> Workforce Planning → Improve retention of young employees
 
->Data Quality Assurance → Ensure accurate reporting
+> Hiring Optimization → Use education insights for stable hiring
+
+> Performance Improvement → Target majority average performers
+
+> Policy Decision → Avoid over-relying on work-life balance for performance improvement
 ```
 ### 🎯 Final Business Impact
 
