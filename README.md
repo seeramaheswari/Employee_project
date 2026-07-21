@@ -3,15 +3,47 @@
 
 ### This project analyzes employee data to identify key drivers of attrition, salary distribution, and workforce patterns using:
 
-```
-Power Bi → Detailed analysis, KPI tracking  and dashboards for attrition increase.
 
-SQL → Data extraction and aggregation calculations for average tenure rate,average salary by age group and job role etc.
+#### Power Bi → Detailed analysis, KPI tracking  and dashboards for attrition increase.
 
-Python (Pandas, Matplotlib/sklearn.model_selection / train_test_split) → Data cleaning and visualization and predicting KPI future  values for attrition increase 
+#### SQL → Data extraction and aggregation calculations for average tenure rate,average salary by age group and job role etc.
+
+#### Python (Pandas, Matplotlib/sklearn.model_selection / train_test_split) → Data cleaning and visualization and predicting KPI future  values for attrition increase 
+
+
+### 📌 2. SQL Analysis (Structured Business Insights)
+
+#### 🔹 Key Analysis Performed
+
+**Used functions:** COUNT(), SUM(), AVG(), CASE WHEN
 ```
-**The objective is to convert raw employee data into actionable insights that help organizations improve employee retention, workforce planning, and compensation strategies.**
-### 🛠️ Tools Used, Key Insights & Business Impact
+>Employee count by job role
+
+>Average salary by job role
+
+>High & low performance employee identification
+
+>Attrition rate by:Age groups,Tenure
+```
+#### 💡 Key Insights
+```
+>Younger employees / early tenure employees leave more frequently
+
+>High performers can be identified for promotion planning
+
+>Workforce distribution across roles is uneven
+```
+#### 🧠 Business Problems Solved
+```
+>Workforce Planning → Hire based on role demand
+
+>Attrition Control → Focus on high-risk age/tenure groups
+
+>Talent Retention → Identify and retain high performers
+
+>Promotion Strategy → Data-driven career progression decisions
+```
+decisions
 
 ### 📌 1. Excel Analysis (Exploratory + Dashboard)
 #### 🔹 Key Analysis Performed
@@ -48,39 +80,10 @@ Python (Pandas, Matplotlib/sklearn.model_selection / train_test_split) → Data 
 
 >Misguided Salary Focus → Shift focus from salary to engagement factors
 ```
-### 📌 2. SQL Analysis (Structured Business Insights)
 
-#### 🔹 Key Analysis Performed
+**The objective is to convert raw employee data into actionable insights that help organizations improve employee retention, workforce planning, and compensation strategies.**
+### 🛠️ Tools Used, Key Insights & Business Impact
 
-**Used functions:** COUNT(), SUM(), AVG(), CASE WHEN
-```
->Employee count by job role
-
->Average salary by job role
-
->High & low performance employee identification
-
->Attrition rate by:Age groups,Tenure
-```
-#### 💡 Key Insights
-```
->Younger employees / early tenure employees leave more frequently
-
->High performers can be identified for promotion planning
-
->Workforce distribution across roles is uneven
-```
-#### 🧠 Business Problems Solved
-```
->Workforce Planning → Hire based on role demand
-
->Attrition Control → Focus on high-risk age/tenure groups
-
->Talent Retention → Identify and retain high performers
-
->Promotion Strategy → Data-driven career progression decisions
-```
-decisions
 ### 📌 3. Python Analysis (Data Cleaning & Visualization)
 
 #### 🔹 Key Analysis Performed
