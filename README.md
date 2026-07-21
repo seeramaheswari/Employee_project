@@ -4,9 +4,9 @@
 ### This project analyzes employee data to identify key drivers of attrition, salary distribution, and workforce patterns using:
 
 
-#### Power Bi → Detailed analysis, KPI tracking  and dashboards for attrition increase.
-
 #### SQL → Data extraction and aggregation calculations for average tenure rate,average salary by age group and job role etc.
+
+#### Power Bi → Detailed analysis, KPI tracking  and dashboards for attrition increase.
 
 #### Python (Pandas, Matplotlib/sklearn.model_selection / train_test_split) → Data cleaning and visualization and predicting KPI future  values for attrition increase 
 
