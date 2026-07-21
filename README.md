@@ -16,14 +16,7 @@
 #### 🔹 Key Analysis Performed
 
 **Used functions:** COUNT(), SUM(), AVG(), CASE WHEN
-```
->Employee count by job role
 
->Average salary by job role
-
->High & low performance employee identification
-
->Attrition rate by:Age groups,Tenure
 ```
 #### 💡 Key Insights
 ```
