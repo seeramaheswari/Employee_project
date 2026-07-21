@@ -77,8 +77,8 @@ employees staying loyal to company when they get progress in they career path.
 ### 📌 3. Python Analysis (Data Cleaning & Visualization)
 
 #### 🔹 Key Analysis Performed
-```
-```
+
+
 #### 💡 Key Insights
 ```
 > Technology roles are highest paid; education roles are lowest paid and which Attrition is ~50% across all job roles → not role-specific
