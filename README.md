@@ -45,7 +45,7 @@
 
 >Promotion Strategy → Data-driven career progression decisions for young employees so that they will be more chances of
 employees staying loyal to company when they get progress in they career path.
-```
+
 
 ### 📌 2. PowerBi Detailed Analysis (Interactive Visualization Charts & Dashboard Creation)
 
