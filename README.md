@@ -37,7 +37,7 @@
 ```
 #### 🧠 Business Problems Solved
 ```
-> → Giving highest preference to the high educated candidates to reduce the attrition.
+> → Giving more preference to the high education level candidates than remaining to reduce the attrition.
 
 >Attrition Control → Focus on high-risk age/tenure groups
 
@@ -49,32 +49,35 @@ employees staying loyal to company when they get progress in they career path.
 
 ### 📌 2. PowerBi Detailed Analysis (Interactive Visualization Charts & Dashboard Creation)
 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/b2be527c-900a-44d9-bc6e-fdfb920d255c" />
+
+```
+#### 💡 Key Insights
+```
+>Out of 75K employees ,There are 35K employees left the company which causing 47% attrition rate in the company.
+
+>Bachelors degree education level has the double the attrition rate of PHD Education level.
+
+>Employees who are not working in remote work mode are causing high attrition rate in  the company.
+
+>Unfortunately the employees who are not doing overtime are highly attrition rate than who does overtime work.
+
+>Young Employees are leaving the company than older ones
+
+```
+#### 🧠 Business Problems Solved
+```
+>Giving more preference to the high education level candidates than remaining to reduce the attrition.
+
+>Promotion Strategy → Data-driven career progression decisions for young employees so that they will be more chances of
+employees staying loyal to company when they get progress in they career path.
+
+>Offering and Granting flexible working hours and remote work options to reduce the attrition.
 
 ### 📌 3. Python Analysis (Data Cleaning & Visualization)
 
 #### 🔹 Key Analysis Performed
 ```
-> Data loading & inspection (pd.read_csv(), head(), columns)
-
-> Data cleaning (drop unnecessary columns)
-
-> Salary analysis by job role (groupby + mean)
-
-> Attrition analysis by job role (groupby + count)
-
-> Age distribution visualization (sns.histplot)
-
-> Gender distribution (value_counts, sort_values)
-
-> Correlation check (corr between Years at Company & Attrition)
-
-> Tenure grouping (pd.cut)
-
-> Attrition rate by tenure (groupby + line plot)
-
-> Attrition rate by education (percentage calculation + bar plot)
-
-> Work-life balance vs performance (pd.crosstab + heatmap)
 ```
 #### 💡 Key Insights
 ```
