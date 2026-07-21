@@ -78,43 +78,30 @@ employees staying loyal to company when they get progress in they career path.
 
 #### 🔹 Key Analysis Performed
 
+<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/0d1c49e4-bb30-4c0f-a0c6-ceac8ade7c42" />
+
+<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/d6f9dda2-7826-47d1-a41d-698c963c05f4" />
 
 #### 💡 Key Insights
-```
-> Technology roles are highest paid; education roles are lowest paid and which Attrition is ~50% across all job roles → not role-specific
 
-> Young & mid-age employees leave more; senior employees stay longer
+> Stayed employees and left employees count by job role.
 
-> Gender distribution highlights workforce composition imbalance
+> Predicting future values of Monthly Income,Age,Tenure and Distance from home
+>with scikit and random forest algorithms using present data
 
-> Employees with 0–2 years tenure have highest attrition
 
-> Long-tenure employees show higher retention
-
-> Education level has minor impact on attrition (mostly similar rates)
-
-> No strong correlation between work-life balance and performance
-
-> Majority employees are average performers (~60%)
-```
 #### 🧠 Business Problems Solved
-```
-> Attrition Reduction → Focus on early-tenure employees (0–2 years)
 
-> Compensation Strategy → Address salary gaps across job roles
+> Aware of requirement of employees in each department with the stayed emploees count
 
-> Workforce Planning → Improve retention of young employees
+>Salary hikes  and promotion planning to the based on their performance and loyalty
 
-> Hiring Optimization → Use education insights for stable hiring
+>Giving flexible work hours timings to reduce to attriton rate.
 
-> Performance Improvement → Target majority average performers
-
-> Policy Decision → Avoid over-relying on work-life balance for performance improvement
-```
 ### 🎯 Final Business Impact
 
 **This project helps organizations:**
-```
+
 >Reduce employee attrition
 
 >Improve employee satisfaction & retention
@@ -124,4 +111,4 @@ employees staying loyal to company when they get progress in they career path.
 >Build fair and effective compensation strategies
 
 >Make data-driven HR decisions instead of assumptions
-```
+
