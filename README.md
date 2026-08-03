@@ -102,13 +102,13 @@ employees staying loyal to company when they get progress in they career path.
 
 **This project helps organizations:**
 
->Reduce employee attrition
+>Make data-driven HR decisions instead of assumptions using the above key insights.
+
+> So that it reduce employee attrition
 
 >Improve employee satisfaction & retention
 
 >Optimize hiring and workforce distribution
 
 >Build fair and effective compensation strategies
-
->Make data-driven HR decisions instead of assumptions
 
