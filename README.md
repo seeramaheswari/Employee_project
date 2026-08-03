@@ -73,7 +73,7 @@ employees staying loyal to company when they get progress in they career path.
 
 >Offering and Granting flexible working hours and remote work options to reduce the attrition.
 
-### 📌 3. Python Analysis (Data Cleaning & Visualization)
+### 📌 3. Forecasting data using python
 
 #### 🔹 Key Analysis Performed
 
@@ -88,7 +88,6 @@ employees staying loyal to company when they get progress in they career path.
 > Predicting future values of Monthly Income,Age,Tenure and Distance from home
 >with scikit and random forest algorithms using present data
 
-
 #### 🧠 Business Problems Solved
 
 > Aware of requirement of employees in each department with the stayed emploees count
@@ -96,6 +95,8 @@ employees staying loyal to company when they get progress in they career path.
 >Salary hikes  and promotion planning to the based on their performance and loyalty
 
 >Giving flexible work hours timings to reduce to attriton rate.
+
+>Giving remote work options for the long distance employees to reduce attrition.
 
 ### 🎯 Final Business Impact
 
