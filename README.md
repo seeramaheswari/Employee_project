@@ -83,9 +83,10 @@ employees staying loyal to company when they get progress in they career path.
 
 #### 💡 Key Insights
 
-> Stayed employees and left employees count by job role.
+> Stayed employees and left employees count by job role, helps us employees requirement by job role.
 
-> Predicting future values of Monthly Income,Age,Tenure and Distance from home
+> Predicting the percentage of values that causes future attrition increase such as Monthly Income, Age, Tenure and Distance from
+home has high impact in increasing attrition rate in the company.
 >with scikit and random forest algorithms using present data
 
 #### 🧠 Business Problems Solved
