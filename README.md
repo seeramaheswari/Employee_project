@@ -94,7 +94,7 @@ home has high impact in increasing attrition rate in the company.
 > Aware of requirement of employees in each department with the stayed emploees count
 
 > Age and tenure showing higher impact on attrition increase so to reduce that start plaining retention program to train
-the young employees by skillful more experienced candidates and give the career driven options to young employees to keep them loyal to the company.
+the young employees by skillful more experienced candidates and give the career driven options to young employees to keep the older and young employees loyal to the company.
 
 >As the monthly income has high impact in attrition increase so,  hike the salary  and promotion planning to the based on their performance and loyalty
 
