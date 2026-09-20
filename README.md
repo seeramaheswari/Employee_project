@@ -93,11 +93,14 @@ home has high impact in increasing attrition rate in the company.
 
 > Aware of requirement of employees in each department with the stayed emploees count
 
->Salary hikes  and promotion planning to the based on their performance and loyalty
+> Age and tenure showing higher impact on attrition increase so to reduce that start plaining retention program to train
+the young employees by skillful more experienced candidates and give the career driven options to young employees to keep them loyal to the company.
+
+>As the monthly income has high impact in attrition increase so,  hike the salary  and promotion planning to the based on their performance and loyalty
 
 >Giving flexible work hours timings to reduce to attriton rate.
 
->Giving remote work options for the long distance employees to reduce attrition.
+>As the distance from home is another main cause to increase attrition rate so, By Giving remote work options for the long distance employees to reduce attrition.
 
 ### 🎯 Final Business Impact
 
